@@ -12,6 +12,8 @@ var archive = document.getElementById("Table");
 stop.style.visibility = "hidden";
 
 
+///testy
+
 function Counting(counting) {
   if (counting == 1) {
 
